@@ -1,0 +1,21 @@
+#about{
+    text-align: center;
+    font-size: 40px;
+    margin-top:30vh;
+}
+
+.button-container{
+display:inline-block;
+position:relative;
+}
+
+.button-container .link{
+position: absolute;
+bottom:3.5em;
+right:0.2em;
+background-color:gray;
+border-radius:0.5em;
+color:white;
+text-transform:uppercase;
+padding:0.25em 0.5em;
+}
